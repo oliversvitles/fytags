@@ -1,2 +1,2 @@
-# gytags
-Generate YouTube tags
+# FYTAGS
+### Formatter YouTube tags
